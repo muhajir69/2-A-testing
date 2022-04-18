@@ -1,0 +1,2 @@
+# 2-A-testing
+Langkah 1: Untuk memulai, Anda perlu menginstal aplikasi autentikator di ponsel Anda, karena Poloniex tidak menggunakan verifikasi SMS. Beberapa opsi adalah:  Google Authenticator untuk iOS Google Authenticator untuk Android Microsoft Authenticator untuk Windows Phone Authy untuk Desktop Langkah 2: Selanjutnya, login ke akun Poloniex Anda. Di menu utama di sudut kanan atas halaman, di bawah ikon alat, pilih Otentikasi Dua Faktor.
